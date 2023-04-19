@@ -39,9 +39,6 @@
 }
 
 
-
-
-
 .aboutme-section{
     background-color:#323f4b;
 }
@@ -56,10 +53,6 @@
     font-family:"Roboto";
     font-size:35px;
     font-weight:bold;
-}
-.aboutme-image{
-    width:100%;
-    border-radius:20px;
 }
 .aboutme-descp{
     font-family: Roboto;
@@ -82,9 +75,6 @@
     font-size:20px;
     font-weight:bold;
 }
-
-
-
 
 
 .projects-section{
@@ -116,7 +106,6 @@
     font-family:"Roboto";
     font-weight:500;
 }
-
 .projects-title{
     color:white;
     font-family:"Roboto";
@@ -124,7 +113,6 @@
     font-weight:500;
     margin-top:5px;
 }
-
 .projects-descp{
     color:#9aa5b1;
     font-size:20px;
@@ -137,9 +125,6 @@
     font-size:15px;
     font-weight:500;
 }
-
-
-
 
 
 .services-section{
@@ -172,40 +157,12 @@
     font-weight:500;
     margin-top:5px;
 }
-
 .services-card-descp{
     color:#9aa5b1;
     font-size:20px;
     font-family:"Roboto";
     font-weight:500;
 }
-
-
-
-
-
-.workdone-section {
-    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
-    background-size:cover;
-}
-.workdone-hr-line {
-    background-color: #ffffff;
-    width:60px;
-}
-.workdone-card-title {
-    color:white;
-    font-family:"Roboto";
-    font-size:36px;
-    font-weight:bold;
-}
-.workdone-card-sub-title {
-    color:white;
-    font-family:"Roboto";
-    font-size:16px;
-}
-
-
-
 
 
 .well-wishers-section{
@@ -244,9 +201,6 @@
     font-size:20px;
     font-weight:500;
 }
-
-
-
 
 
 .footer-section{
